@@ -13,3 +13,9 @@ Para poder ejecutar el script, es necesario tener instalados los siguientes paqu
 * csv 
 
 Tras la ejecución del script, se preguntará al usuario si desea iniciar un nuevo archivo de datos csv, o se desea continuar añadiendo datos al ya existente. Después se solicitará el número de ciclos horarios que se pretende capturar, una vez introducido este número de ciclos, el script capturará los datos cada hora y los registrará en el archivo meteo_data.csv, hasta completar el número de ciclos indicado.
+
+Los documentos contenidos en esta práctica son:
+
+* Documento que describe la práctica en formatos pdf, html y ods.
+* Programa en python, meteo_data.py.
+* CSV con los datos capturados, ,eteo_data.csv
